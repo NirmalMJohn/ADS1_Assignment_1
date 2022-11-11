@@ -1,0 +1,25 @@
+DD_MM_YYYY,max_air_temp,min_air_temp
+jan,1,-1
+mid jan,2.8,0
+feb,3.4,3
+mid feb,7.9,3.5
+mar,6.5,3.6
+mid mar,12.8,8.5
+apr,14.6,7.9
+mid apr,11.5,6
+may,9.9,3
+mid may,11.2,8.5
+jun,21.4,10.8
+mid jun,26.6,19.2
+jul,17.4,12.5
+mid jul,22.1,17.2
+aug,18.1,14.5
+mid aug,19.2,14.1
+sep,16.2,14
+mid sep,22.3,15.6
+oct,16.5,13.5
+mid oct,14,12.4
+nov,11.4,9.1
+mid nov,12,8.5
+dec,11.3,7.9
+mid dec,13.1,11.9
